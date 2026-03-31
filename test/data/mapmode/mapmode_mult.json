@@ -1,12 +1,12 @@
 {
   "PackageName": "mapmode",
-  "FullPackageName": "github.com/celt237/go-annotation/test/data/mapmode",
+  "FullPackageName": "github.com/zjggo/go-annotation/test/data/mapmode",
   "FileName": "mapmode_mult.go",
   "Imports": {
     "data": {
       "Name": "data",
       "HasAlias": false,
-      "Path": "github.com/celt237/go-annotation/test/data"
+      "Path": "github.com/zjggo/go-annotation/test/data"
     }
   },
   "Interfaces": [
@@ -16,7 +16,7 @@
         "data": {
           "Name": "data",
           "HasAlias": false,
-          "Path": "github.com/celt237/go-annotation/test/data"
+          "Path": "github.com/zjggo/go-annotation/test/data"
         }
       },
       "Comments": [
@@ -176,7 +176,7 @@
         "data": {
           "Name": "data",
           "HasAlias": false,
-          "Path": "github.com/celt237/go-annotation/test/data"
+          "Path": "github.com/zjggo/go-annotation/test/data"
         }
       },
       "Comments": [

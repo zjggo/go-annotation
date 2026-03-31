@@ -1,3 +1,3 @@
-module github.com/celt237/go-annotation
+module github.com/zjggo/go-annotation
 
 go 1.23

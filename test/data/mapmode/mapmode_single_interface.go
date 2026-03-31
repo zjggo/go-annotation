@@ -1,7 +1,7 @@
 package mapmode
 
 import (
-	"github.com/celt237/go-annotation/test/data"
+	"github.com/zjggo/go-annotation/test/data"
 )
 
 // InterfaceOne  test

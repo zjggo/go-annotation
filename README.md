@@ -1,5 +1,5 @@
-[![Release](https://github.com/celt237/go-annotation/actions/workflows/release.yml/badge.svg)](https://github.com/celt237/go-annotation/actions/workflows/release.yml)
-[![Coverage Status](https://coveralls.io/repos/github/celt237/go-annotation/badge.svg?branch=master)](https://coveralls.io/github/celt237/go-annotation?branch=master)
+[![Release](https://github.com/zjggo/go-annotation/actions/workflows/release.yml/badge.svg)](https://github.com/zjggo/go-annotation/actions/workflows/release.yml)
+[![Coverage Status](https://coveralls.io/repos/github/zjggo/go-annotation/badge.svg?branch=master)](https://coveralls.io/github/zjggo/go-annotation?branch=master)
 
 
 # go-annotation

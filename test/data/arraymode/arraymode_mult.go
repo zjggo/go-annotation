@@ -1,7 +1,7 @@
 package arraymode
 
 import (
-	"github.com/celt237/go-annotation/test/data"
+	"github.com/zjggo/go-annotation/test/data"
 )
 
 // InterfaceTwo  test
